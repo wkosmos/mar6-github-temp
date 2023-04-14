@@ -6,6 +6,9 @@ def do_stuff(stuff: str):
 
     """
     print(stuff)
+    a = 25
+    b = 30
+    print(f"Sum: {addition(a,b)}")
 
 def addition (x,y):
     num = sum(x,y)
