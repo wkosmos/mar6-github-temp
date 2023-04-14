@@ -6,3 +6,7 @@ def do_stuff(stuff: str):
 
     """
     print(stuff)
+
+def addition (x,y):
+    num = sum(x,y)
+    return num
