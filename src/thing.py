@@ -9,4 +9,9 @@ def do_stuff(stuff: str):
 
 def addition (x,y):
     num = sum(x,y)
+    a = num * x * y
+    num = a
     return num
+
+
+
